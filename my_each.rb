@@ -3,5 +3,5 @@ def my_each(array)
   
   while i < 4 
   i = i + 1 
-  
+end 
 end
